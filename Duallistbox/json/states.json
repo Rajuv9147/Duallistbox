@@ -1,0 +1,245 @@
+{
+
+    "selected": [
+        {
+            "id": "AL",
+            "name": "Alabama",
+            "selected": false
+},
+        {
+            "id": "AR",
+            "name": "Arkansas",
+            "selected": false
+}
+                ],
+    "available": [{
+        "id": "AK",
+        "name": "Alaska",
+        "selected": false
+}, {
+        "id": "AS",
+        "name": "American Samoa",
+        "selected": false
+}, {
+        "id": "AZ",
+        "name": "Arizona",
+        "selected": false
+}, {
+        "id": "CA",
+        "name": "California",
+        "selected": false
+}, {
+        "id": "CO",
+        "name": "Colorado",
+        "selected": false
+}, {
+        "id": "CT",
+        "name": "Connecticut",
+        "selected": false
+}, {
+        "id": "DE",
+        "name": "Delaware",
+        "selected": false
+}, {
+        "id": "DC",
+        "name": "District Of Columbia",
+        "selected": false
+}, {
+        "id": "FM",
+        "name": "Federated States Of Micronesia",
+        "selected": false
+}, {
+        "id": "FL",
+        "name": "Florida",
+        "selected": false
+}, {
+        "id": "GA",
+        "name": "Georgia",
+        "selected": false
+}, {
+        "id": "GU",
+        "name": "Guam",
+        "selected": false
+}, {
+        "id": "HI",
+        "name": "Hawaii",
+        "selected": false
+}, {
+        "id": "ID",
+        "name": "Idaho",
+        "selected": false
+}, {
+        "id": "IL",
+        "name": "Illinois",
+        "selected": false
+}, {
+        "id": "IN",
+        "name": "Indiana",
+        "selected": false
+}, {
+        "id": "IA",
+        "name": "Iowa",
+        "selected": false
+}, {
+        "id": "KS",
+        "name": "Kansas",
+        "selected": false
+}, {
+        "id": "KY",
+        "name": "Kentucky",
+        "selected": false
+}, {
+        "id": "LA",
+        "name": "Louisiana",
+        "selected": false
+}, {
+        "id": "ME",
+        "name": "Maine",
+        "selected": false
+}, {
+        "id": "MH",
+        "name": "Marshall Islands",
+        "selected": false
+}, {
+        "id": "MD",
+        "name": "Maryland",
+        "selected": false
+}, {
+        "id": "MA",
+        "name": "Massachusetts",
+        "selected": false
+}, {
+        "id": "MI",
+        "name": "Michigan",
+        "selected": false
+}, {
+        "id": "MN",
+        "name": "Minnesota",
+        "selected": false
+}, {
+        "id": "MS",
+        "name": "Mississippi",
+        "selected": false
+}, {
+        "id": "MO",
+        "name": "Missouri",
+        "selected": false
+}, {
+        "id": "MT",
+        "name": "Montana",
+        "selected": false
+}, {
+        "id": "NE",
+        "name": "Nebraska",
+        "selected": false
+}, {
+        "id": "NV",
+        "name": "Nevada",
+        "selected": false
+}, {
+        "id": "NH",
+        "name": "New Hampshire",
+        "selected": false
+}, {
+        "id": "NJ",
+        "name": "New Jersey",
+        "selected": false
+}, {
+        "id": "NM",
+        "name": "New Mexico",
+        "selected": false
+}, {
+        "id": "NY",
+        "name": "New York",
+        "selected": false
+}, {
+        "id": "NC",
+        "name": "North Carolina",
+        "selected": false
+}, {
+        "id": "ND",
+        "name": "North Dakota",
+        "selected": false
+}, {
+        "id": "MP",
+        "name": "Northern Mariana Islands",
+        "selected": false
+}, {
+        "id": "OH",
+        "name": "Ohio",
+        "selected": false
+}, {
+        "id": "OK",
+        "name": "Oklahoma",
+        "selected": false
+}, {
+        "id": "OR",
+        "name": "Oregon",
+        "selected": false
+}, {
+        "id": "PW",
+        "name": "Palau",
+        "selected": false
+}, {
+        "id": "PA",
+        "name": "Pennsylvania",
+        "selected": false
+}, {
+        "id": "PR",
+        "name": "Puerto Rico",
+        "selected": false
+}, {
+        "id": "RI",
+        "name": "Rhode Island",
+        "selected": false
+}, {
+        "id": "SC",
+        "name": "South Carolina",
+        "selected": false
+}, {
+        "id": "SD",
+        "name": "South Dakota",
+        "selected": false
+}, {
+        "id": "TN",
+        "name": "Tennessee",
+        "selected": false
+}, {
+        "id": "TX",
+        "name": "Texas",
+        "selected": false
+}, {
+        "id": "UT",
+        "name": "Utah",
+        "selected": false
+}, {
+        "id": "VT",
+        "name": "Vermont",
+        "selected": false
+}, {
+        "id": "VI",
+        "name": "Virgin Islands",
+        "selected": false
+}, {
+        "id": "VA",
+        "name": "Virginia",
+        "selected": false
+}, {
+        "id": "WA",
+        "name": "Washington",
+        "selected": false
+}, {
+        "id": "WV",
+        "name": "West Virginia",
+        "selected": false
+}, {
+        "id": "WI",
+        "name": "Wisconsin",
+        "selected": false
+}, {
+        "id": "WY",
+        "name": "Wyoming",
+        "selected": false
+}]
+
+}

@@ -1,0 +1,66 @@
+.box {
+    border: 1px solid #efefef;
+}
+
+.list {
+    max-height: 300px;
+    height: 300px;
+    overflow-y: auto;
+}
+
+.selected {
+    background: #add8e6;
+    color: #fff;
+}
+
+.list-group-item {
+    cursor: pointer;
+    height: 2.3em;
+    border-radius: 0px;
+}
+
+.list-group-item:hover {
+    background: #add8e6;
+    color: #fff;
+}
+
+body,
+html {
+    font-family: calibri;
+    font-size: 15px;
+}
+
+span.text {
+    width: 85%;
+    display: block;
+    float: left;
+}
+
+span.icon {
+    width: 15%;
+    display: block;
+    float: right;
+}
+
+.header {
+    width: 100%;
+    margin: 0;
+    height: 50px;
+    border: 1px solid #efefef;
+    line-height: 2.5em;
+}
+
+.col-md-12 {
+    padding: 0;
+    margin: 0;
+    display:none;
+}
+
+.col-md-5.text-left.text {
+    width: 55%;
+}
+
+.col-md-6,
+.col-sm-6 {
+    padding: 0;
+}
