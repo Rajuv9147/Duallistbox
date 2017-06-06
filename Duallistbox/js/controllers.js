@@ -113,8 +113,9 @@
             } else {
                 c.added = false;
             }
-       };
-           }
+        };
+
+                      }
     DualListController.inject = ['$scope', '$log', '$rootScope', 'locationService', '$timeout', 'transferBoxConfig'];
     angular.module('transferbox').controller('DualListController', DualListController);
 })();
